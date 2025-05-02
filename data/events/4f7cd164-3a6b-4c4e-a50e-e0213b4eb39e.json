@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "f25b3535-26ac-4b51-8418-0b217f9d8158": {
+      "label": "gentrification",
+      "is_offline": false,
+      "file_url": "https://ia601801.us.archive.org/9/items/sunnys-podcast/Sunny%27s%20Podcast.m4a",
+      "duration": 488,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Keepin' Austin Austin Podcast ",
+  "created_at": "2025-05-02T04:37:28.197Z",
+  "created_by": "sunnybelllllll",
+  "updated_at": "2025-05-02T04:37:28.197Z",
+  "updated_by": "sunnybelllllll"
+}
